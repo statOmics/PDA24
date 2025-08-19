@@ -2,9 +2,9 @@
 
 [![Render and Deploy](https://github.com/statOmics/PDA21/workflows/Render%20and%20Deploy/badge.svg)](https://github.com/statOmics/PDA21/actions)
 
-Course site for Proteomics Data Analysis 2021 (PDA 2021)
+Course site for Proteomics Data Analysis 2022-2024 (PDA 2024)
 
-https://statomics.github.io/PDA21/
+https://statomics.github.io/PDA24/
 
 
 ### Issues
